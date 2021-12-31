@@ -2,6 +2,7 @@
 - 👀 Este perfil serve como um portfólio e para arquivar projetos
 - 📫 Instagram : @viniciusneiv_
 - 📫 E-mail : viniciustneiva@gmail.com
+- 💼 LinkedIn : www.linkedin.com/in/vinicius-teixeira-neiva
 
 <!---
 viniciustneiva/viniciustneiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
