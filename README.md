@@ -65,7 +65,7 @@
 ###
 
 <br clear="both">
+![mishmanners snake gif](https://github.com/viniciustneiva/viniciustneiva/blob/output/github-contribution-grid-snake.gif)
 
-<img href="https://raw.githubusercontent.com/viniciustneiva/viniciustneiva/blob/output/snake.svg" alt="Snake animation" />
 
 ###
