@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg"  height="30" width="42" alt="Karma" title="Karma"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"  height="30" width="42" alt="Kubernetes" title="Kubernetes"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  height="30" width="42" alt="Node" title="Node"  />
-  <img src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67"  height="30" width="42" alt="JUnit" title="JUnit" />
+  <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4"  height="30" width="42" alt="JUnit" title="JUnit" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="React & React Native" title="React & React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  height="30" width="42" alt="Typescript" title="Typescript"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height="30" width="42" alt="Sass" title="Sass" />
