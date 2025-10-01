@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating and delivering technology since 2021<br>📚 I'm currently learning Golang<br>🎯 Goals: Work with Data-Intensive Applications<br>🎲 Fun fact: Ragnarok Online made me have fun with code.</p>
+<p align="left">✨ Creating and delivering technology since 2021<br>📚 I'm currently learning Golang<br>🎯 Goals: Work with Data-Intensive Applications<br>🎲 Fun fact: Ragnarok Online brought me to the world code.</p>
 
 ###
 
